@@ -48,7 +48,8 @@ h2 {
 }
 
 .p-tag {
-  display: inline-block;
+  display: flex;
+  align-items: center;
   margin-top: 20px;
   right: 0;
   bottom: 0;
