@@ -1,0 +1,97 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+nav {
+  position: absolute;
+  width: 100%;
+  display: flex;
+  padding: 3rem 10rem;
+  justify-content: space-between;
+  color: #1c2227;
+}
+
+.container {
+  height: 100vh;
+}
+.container img {
+  width: 100%;
+  position: absolute;
+  height: 110vh;
+  object-fit: cover;
+  z-index: -1;
+}
+
+.main-title {
+  position: absolute;
+  top: 28%;
+  left: 50%;
+  font-size: 6rem;
+  color: #fff;
+  text-shadow: 0 20px 20px rgba(0, 0, 0, 0.15);
+  transform: translate(-50%, -30%);
+}
+
+.content,
+.content-2 {
+  width: 100%;
+  background: rgb(24, 24, 24);
+  min-height: 100vh;
+  z-index: 2;
+  color: #fff;
+  position: absolute;
+}
+.content-images,
+.content-images-lake {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  min-height: 100vh;
+  text-align: center;
+}
+.content-images-lake {
+  min-height: 60vh;
+}
+.image {
+  object-fit: cover;
+  width: 35rem;
+  height: 24rem;
+}
+.lake {
+  object-fit: cover;
+  width: 100%;
+}
+.centerLake {
+  position: absolute;
+  top: 20%;
+  left: 22%;
+  font-size: 4rem;
+  /* text-shadow: 0 0 20px rgba(165, 169, 174,.1); */
+}
+.centerLake h3,
+.centerLake h1 {
+  text-shadow: 0.5em 0 1em rgba(165, 169, 174, 0.1);
+}
+.text,
+.text-2 {
+  padding: 2rem 2rem;
+  font-size: 1.1rem;
+}
+
+.button {
+  cursor: pointer;
+  padding: 12px 20px;
+  margin: 0 5px;
+  border-radius: 8px;
+  background-color: transparent;
+}
+.button:hover {
+  background-color: rgba(233, 236, 239, 0.6);
+}
+.nav-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
