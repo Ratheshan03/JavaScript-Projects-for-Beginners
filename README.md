@@ -1,1 +1,1 @@
-## 12-Small-JavaScript-Projects
+## 12 Small JavaScript Projects
