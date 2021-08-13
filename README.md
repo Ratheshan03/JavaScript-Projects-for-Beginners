@@ -6,7 +6,11 @@ It has well structured comments for explainations and it is very easy to underst
 ### Project List:
 
 - Animation card 😃
+  <img src="./Assets/cardanimation.png" alt="3d-card">
+
 - Analog clock 🕙
+  <img src="./Assets/analogclock.png" alt="3d-card">
+
 - BMI calculator 📲
 - Calculator 📱
 - Countdown ⏲️
