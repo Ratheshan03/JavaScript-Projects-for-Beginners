@@ -5,11 +5,13 @@ It has well structured comments for explainations and it is very easy to underst
 
 ### Project List:
 
-- Animation card 😃
-  <img src="./Assets/cardanimation.png" width="150px" height="200" alt="3d-card">
+<p> Animation card 😃</p>
+<img src="./Assets/cardanimation.png" width="150px" height="200" alt="3d-card">
+<br>
 
-- Analog clock 🕙
-  <img src="./Assets/analogclock.PNG" width="150px" height="200" alt="3d-card">
+<p> Analog clock 🕙</p>
+<img src="./Assets/analogclock.PNG" width="160px" height="200" alt="3d-card">
+<br>
 
 - BMI calculator 📲
 - Calculator 📱
