@@ -5,6 +5,4 @@ function BMI() {
   let bmio = bmi.toFixed(2);
 
   document.getElementById("result").innerHTML = "Your BMI is " + bmio;
-  document.getElementById("h").value = "";
-  document.getElementById("w").value = "";
 }
