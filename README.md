@@ -6,10 +6,10 @@ It has well structured comments for explainations and it is very easy to underst
 ### Project List:
 
 - Animation card 😃
-  <img src="./Assets/cardanimation.png" width="100px" height="200" alt="3d-card">
+  <img src="./Assets/cardanimation.png" width="150px" height="200" alt="3d-card">
 
 - Analog clock 🕙
-  <img src="./Assets/analogclock.PNG" width="100px" height="200" alt="3d-card">
+  <img src="./Assets/analogclock.PNG" width="150px" height="200" alt="3d-card">
 
 - BMI calculator 📲
 - Calculator 📱
