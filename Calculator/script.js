@@ -1,5 +1,5 @@
 VanillaTilt.init(document.querySelector(".container"), {
-  max: 10,
+  max: 12,
   speed: 400,
   glare: true,
   "max-glare": 0.2,
