@@ -14,15 +14,15 @@ It has well structured comments for explainations and it is very easy to underst
 <br>
 
 <p>BMI calculator 📲</p>
-<img src="./Assets/bmicalc.PNG" width="190px" height="200" alt="3d-card">
+<img src="./Assets/bmicalc.PNG" width="210px" height="200" alt="3d-card">
 <br>
 
 <p> Calculator 📱</p>
-<img src="./Assets/calc.PNG" width="190px" height="200" alt="3d-card">
+<img src="./Assets/calc.PNG" width="200px" height="200" alt="3d-card">
 <br>
 
 <p> Countdown ⏲️</p>
-<img src="./Assets/countdown.PNG" width="220px" height="200" alt="3d-card">
+<img src="./Assets/countdown.PNG" width="230px" height="200" alt="3d-card">
 <br>
 
 <p> Dynamic Calendar 📅</p>
@@ -34,7 +34,7 @@ It has well structured comments for explainations and it is very easy to underst
 <br>
 
 <p> Parallax website 🍀</p>
-<img src="./Assets/parallax.PNG" width="240px" height="200" alt="3d-card">
+<img src="./Assets/parallax.PNG" width="270px" height="200" alt="3d-card">
 <br>
 
 <p> Temperature converter 🌤️</p>
@@ -42,7 +42,7 @@ It has well structured comments for explainations and it is very easy to underst
 <br>
 
 <p>Todo list 📖</p>
-<img src="./Assets/todo.png" width="190px" height="200" alt="3d-card">
+<img src="./Assets/todo.png" width="200px" height="200" alt="3d-card">
 <br>
 
 <p> Weather app ⛈️</p>
@@ -50,7 +50,7 @@ It has well structured comments for explainations and it is very easy to underst
 <br>
 
 <p>  Weight converter 🙇‍♂️</p>
-<img src="./Assets/weight.PNG" width="190px" height="200" alt="3d-card">
+<img src="./Assets/weight.PNG" width="200px" height="200" alt="3d-card">
 <br>
 
 If u liked my projects and the code was useful to you,
