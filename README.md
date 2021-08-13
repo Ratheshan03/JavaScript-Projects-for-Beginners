@@ -21,4 +21,4 @@ It has well structured comments for explainations and it is very easy to underst
 If u liked my projects and the code was useful to you,
 feel free to leave a star (much appreciated 😃), fork it and customize the projects as you like! :)
 
-Licensed under the [MIT License](License).
+Licensed under the [MIT License](LICENSE).
