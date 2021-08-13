@@ -69,5 +69,7 @@ It has well structured comments for explainations and it is very easy to underst
 </ol>
 
 ### If u liked my projects and the code was useful to you, feel free to leave a star (much appreciated 😃), fork it and customize the projects as you like! :)
-
-Licensed under the [MIT License](LICENSE).
+.
+.
+.
+⏩ This Repo is Licensed under the [MIT License](LICENSE).
