@@ -22,7 +22,7 @@ It has well structured comments for explainations and it is very easy to underst
 <br>
 
 <p> Countdown ⏲️</p>
-<img src="./Assets/countdown.PNG" width="190px" height="200" alt="3d-card">
+<img src="./Assets/countdown.PNG" width="2100px" height="200" alt="3d-card">
 <br>
 
 <p> Dynamic Calendar 📅</p>
@@ -30,11 +30,11 @@ It has well structured comments for explainations and it is very easy to underst
 <br>
 
 <p> Music player 🎵</p>
-<img src="./Assets/musicplayer.PNG" width="190px" height="200" alt="3d-card">
+<img src="./Assets/musicplayer.PNG" width="210px" height="200" alt="3d-card">
 <br>
 
 <p> Parallax website 🍀</p>
-<img src="./Assets/parallax.PNG" width="190px" height="200" alt="3d-card">
+<img src="./Assets/parallax.PNG" width="220px" height="200" alt="3d-card">
 <br>
 
 <p> Temperature converter 🌤️</p>
@@ -42,11 +42,11 @@ It has well structured comments for explainations and it is very easy to underst
 <br>
 
 <p>Todo list 📖</p>
-<img src="./Assets/todo.PNG" width="190px" height="200" alt="3d-card">
+<img src="./Assets/todo.png" width="190px" height="200" alt="3d-card">
 <br>
 
 <p> Weather app ⛈️</p>
-<img src="./Assets/weather.PNG" width="190px" height="200" alt="3d-card">
+<img src="./Assets/weather.PNG" width="210px" height="200" alt="3d-card">
 <br>
 
 <p>  Weight converter 🙇‍♂️</p>
