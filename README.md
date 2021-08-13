@@ -14,7 +14,7 @@ It has well structured comments for explainations and it is very easy to underst
 <br>
 
 <p>BMI calculator 📲</p>
-<img src="./Assets/bmicalc.PNG" width="210px" height="200" alt="3d-card">
+<img src="./Assets/bmicalc.PNG" width="220px" height="200" alt="3d-card">
 <br>
 
 <p> Calculator 📱</p>
@@ -34,7 +34,7 @@ It has well structured comments for explainations and it is very easy to underst
 <br>
 
 <p> Parallax website 🍀</p>
-<img src="./Assets/parallax.PNG" width="270px" height="200" alt="3d-card">
+<img src="./Assets/parallax.PNG" width="100%" height="200" alt="3d-card">
 <br>
 
 <p> Temperature converter 🌤️</p>
