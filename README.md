@@ -17,5 +17,5 @@ It has well structured comments for explainations and it is very easy to underst
 - Weather app ⛈️
 - Weight converter 🙇‍♂️
 
-If u liked my website and the code was useful to you,
-feel free to leave a star (much appreciated 😃), fork it and customize as you like! :)
+If u liked my projects and the code was useful to you,
+feel free to leave a star (much appreciated 😃), fork it and customize the projects as you like! :)
