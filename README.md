@@ -12,12 +12,12 @@ It has well structured with comments for explainations and it is very easy to un
     </li>
     <br>
     <li>
-    <p> Analog clock 🕙</p>
+    <p> Analog Clock 🕙</p>
     <img src="./Assets/analogclock.PNG" width="190px" height="200" >
     </li>
     <br>
     <li>
-    <p>BMI calculator 📲</p>
+    <p>BMI Calculator 📲</p>
     <img src="./Assets/bmicalc.PNG" width="225px" height="200" >
     </li>
     <br>
@@ -37,7 +37,7 @@ It has well structured with comments for explainations and it is very easy to un
     </li>
     <br>
     <li>
-    <p> Music player 🎵</p>
+    <p> Music Player 🎵</p>
     <img src="./Assets/musicplayer.PNG" width="230px" height="200" >
     </li>
     <br>
