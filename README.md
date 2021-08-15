@@ -42,12 +42,12 @@ It has well structured with comments for explainations and it is very easy to un
     </li>
     <br>
     <li>
-    <p> Parallax website 🍀</p>
+    <p> Parallax Website 🍀</p>
     <img src="./Assets/parallax.PNG" width="360px" height="200" >
     </li>
     <br>
     <li>
-    <p> Temperature converter 🌤️</p>
+    <p> Temperature Converter 🌤️</p>
     <img src="./Assets/temperature.PNG" width="200px" height="200" >
     </li>
     <br>
@@ -57,12 +57,12 @@ It has well structured with comments for explainations and it is very easy to un
     </li>
     <br>
     <li>
-    <p> Weather app ⛈️</p>
+    <p> Weather App ⛈️</p>
     <img src="./Assets/weather.PNG" width="230px" height="200" >
     </li>
     <br>
     <li>
-    <p>  Weight converter 🙇‍♂️</p>
+    <p>  Weight Converter 🙇‍♂️</p>
     <img src="./Assets/weight.PNG" width="210px" height="200" >
     </li>
     <br>
