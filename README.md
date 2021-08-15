@@ -1,7 +1,7 @@
 ## 12 JavaScript Projects for Beginners 🚀
 
 Sharpen your JavaScript skills by building 12 projects using Pure Js without any frameworks.
-It has well structured comments for explainations and it is very easy to understand every bit of code.
+It has well structured with comments for explainations and it is very easy to understand every bit of code.
 
 ### Project List:
 
@@ -69,6 +69,7 @@ It has well structured comments for explainations and it is very easy to underst
 </ol>
 
 ### If u liked my projects and the code was useful to you, feel free to leave a star (much appreciated 😃), fork it and customize the projects as you like! :)
+### Thankyou.
 .
 .
 .
