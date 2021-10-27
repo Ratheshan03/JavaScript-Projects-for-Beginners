@@ -70,6 +70,12 @@ It has well structured with comments for explainations and it is very easy to un
 
 ### If u liked my projects and the code was useful to you, feel free to leave a star (much appreciated 😃), fork it and customize the projects as you like! :)
 ### Thankyou.
+
+
+### Contributions
+Check our contribution guidelines and start open sourcing 
+[Contibutions-file](CONTRIBUTIONS.md).
+
 .
 .
 .
