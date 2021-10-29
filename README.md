@@ -72,7 +72,8 @@ It has well structured with comments for explainations and it is very easy to un
 ### Thankyou.
 
 
-### Contributions
+
+## Contributions
 Check our contribution guidelines and start open sourcing 
 [Contibutions-file](CONTRIBUTIONS.md).
 
