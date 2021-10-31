@@ -77,7 +77,5 @@ It has well structured with comments for explainations and it is very easy to un
 Check our contribution guidelines and start open sourcing 
 [Contibutions-file](CONTRIBUTIONS.md).
 
-.
-.
-.
+
 ⏩ This Repo is Licensed under the [MIT License](LICENSE).
